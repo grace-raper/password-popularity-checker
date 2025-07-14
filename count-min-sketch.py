@@ -1,8 +1,4 @@
-# Count-Min Sketch Project - CSE 312
-
-# Instructor    : Alex Tsun
-# Group Members : James Swartwood, Grace Raper, Long Thành
-# UW Emails     : jamesms@uw.edu, graper@uw.edu, long1104@uw.edu
+# Count-Min Sketch Toy Implementation
 
 """ Import necessary package(s) """
 import numpy as np
@@ -18,10 +14,6 @@ def startup():
     program.
     """
     print("<System> Welcome to a Count-Min Sketch program. Printing relevant data...")
-    print("")
-    print("Count-Min Sketch Project - CSE 312")
-    print("Instructor: Alex Tsun")
-    print("Group: James Swartwood, Grace Raper, Long Thành")
     print("")
     print("<System> What mode would you like to run? (1:manual, 2:automatic)")
     while True:
